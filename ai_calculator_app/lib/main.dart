@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_gemini/flutter_gemini.dart';
 
-String apiKey = 'AIzaSyDPfprY35lzwWWLKaZC8Aoc__vwwvqTjYA';
+String apiKey = '1234567890';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
