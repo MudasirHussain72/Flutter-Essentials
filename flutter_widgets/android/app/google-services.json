@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040090871809",
+    "project_id": "widget-of-the-week",
+    "storage_bucket": "widget-of-the-week.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040090871809:android:823ed0be6cc842c632e800",
+        "android_client_info": {
+          "package_name": "com.example.widget_of_the_week"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9BLb5Q5rXNP0M0TJHnB_lelEiGeqNWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

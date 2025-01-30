@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679911738299",
+    "project_id": "contacts-app-8f821",
+    "storage_bucket": "contacts-app-8f821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679911738299:android:3fd5bf442745f73e7ad29e",
+        "android_client_info": {
+          "package_name": "com.devtrail.contacts_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ01h6Yb_uN_2yAEDlzLU4cIETa-TnaHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
